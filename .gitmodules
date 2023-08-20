@@ -1,0 +1,3 @@
+[submodule "thirdparty/firmware/ardupilot"]
+	path = thirdparty/firmware/ardupilot
+	url = git@github.com:EnriqueERamirez/ardupilot.git
